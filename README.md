@@ -1,7 +1,8 @@
 
-### Hello there 👋
-## Welcome to my Profile , Enjoy your Stay ❤️🎉
+#### Hello there 👋
+### Welcome ❤️🎉
 ## About me
-### I am a Computer Science Student who likes working in Javascript 🙃
+#### I am a Computer Science Student who likes working in Javascript 🙃
 
-#### ps: don't forget to Love & Hate Javascript 😋
+
+###### ps: don't forget to Love & Hate Javascript 😋
